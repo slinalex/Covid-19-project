@@ -9,9 +9,7 @@ virus in the nearest future. The three algorithms that I used are linear
 regression, polynomial regression, and SVM. It is a highly nontrivial task to 
 predict the spread of covid and in order to give accurate estimates for certain 
 region one has to take into account many factors, such as strictness of
-restrictions in that region, season and many others.
-
-So the ML part of my project is more an attempt to familiarize myself with 
-several ML algorithms rather than give accurate predictions for the spread of 
-the virus. 
+restrictions in that region, season and many others. So the ML part of my project 
+is more an attempt to familiarize myself with several ML algorithms rather than 
+give accurate predictions for the spread of the virus. 
 
