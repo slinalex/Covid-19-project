@@ -13,3 +13,5 @@ restrictions in that region, season and many others. So the ML part of my projec
 is more an attempt to apply several ML algorithms to the real world problem rather 
 than give accurate predictions for the spread of the virus. 
 
+For the version with plotly graphs please follow the link:
+https://www.kaggle.com/alexeyslinkin/covid-19-data-visualization-and-ml
